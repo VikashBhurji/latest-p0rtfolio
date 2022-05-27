@@ -38,12 +38,12 @@ function Projects() {
 
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/VikashBhurji/latest-p0rtfolio/blob/main/src/project_screenshots/bathandbody.jpg?raw=true"
+              imgPath="https://github.com/VikashBhurji/latest-p0rtfolio/blob/main/src/project_screenshots/bathandbody.png?raw=true"
               title="BathAndBodyWorks"
               description="Bath and Body Works is your go-to place for gifts & goodies that surprise & delight. From fresh fragrances to soothing skin care."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css | React"
-              link="https://dicegameswitch.netlify.app/"
+              link="https://github.com/shailendra-k1245/BathAndBodyWorks-site"
               a="https://github.com/shailendra-k1245/BathAndBodyWorks-site"
             />
           </Col>
