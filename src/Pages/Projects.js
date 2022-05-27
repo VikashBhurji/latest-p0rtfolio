@@ -15,36 +15,36 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/zee51.png?raw=true"
-              title="Zee5.com clone"
-              description="An Over the top Streaming service to enjoy over the internet, watch movies, series, and other entertaining content for free or by paid subscription by clicking on favorite category."
+              imgPath="https://github.com/VikashBhurji/latest-p0rtfolio/blob/main/src/project_screenshots/pluralsight.png?raw=true"
+              title="Pluralsight.com clone"
+              description="Pluralsight, Inc. is an American privately held online education company that offers a variety of video training courses for software developers, IT administrators, and creative professionals through its website."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css | MongoDb | Express "
-              link="https://zee5clone.netlify.app/"
-              a="https://github.com/daniyal4engg/Zee5.com_clone"
+              link="https://plurlsightclone.netlify.app/"
+              a="https://github.com/khageswar9/Clone-Of-Plurals.com"
             />
           </Col>
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/myth.png?raw=true"
-              title="mytheresa.com clone"
-              description="This is an E-Commerce website which speciaizes in selling clothes and styling products. The website provides 800 brands and 33,000 products of different types of clothes, watches, shoes etc."
+              imgPath="https://github.com/VikashBhurji/latest-p0rtfolio/blob/main/src/project_screenshots/coschedule.png?raw=true"
+              title="Coschedule.com clone"
+              description="CoSchedule is an all-in-one platform for planning, organizing, and executing all things content marketing. It's easy to use drag-and-drop calendar interface makes it easy to collaborate and schedule all your projects in one place."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css "
-              link="https://mytheresashp.netlify.app/"
-              a="https://github.com/daniyal4engg/mytheresa_clone"
+              link="https://coschedule.netlify.app/"
+              a="https://github.com/pankajnandi/CoSchedule.com-Clone"
             />
           </Col>
 
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/daniyal4engg/Daniyal-Portfolio/blob/master/src/project_screenshots/dice-g301ebfc49_1920.jpg?raw=true"
-              title="Dice Game"
-              description="The object of this game is to be the first person to score 100 points. The game-play involves rolling dice and adding the total each time. However, there is a complication which gives the game its entertainment value.  A player scores points by rolling the dice and finding the total of the dots. For example, if a player rolls a 4 and 5, they score 9.  At this point they can choose to either:  roll again and continue adding to this score, or Hold (STOP) and keep the score of 9 for their first round. Continuing to add will obviously increase the total. However, there is a catch. If a 1 appears on any dice it will wipes out all of their total score for the entire game."
+              imgPath="https://github.com/VikashBhurji/latest-p0rtfolio/blob/main/src/project_screenshots/bathandbody.jpg?raw=true"
+              title="BathAndBodyWorks"
+              description="Bath and Body Works is your go-to place for gifts & goodies that surprise & delight. From fresh fragrances to soothing skin care."
               tech="Tech-Stacks"
-              techD="Html | Javascript | Css "
+              techD="Html | Javascript | Css | React"
               link="https://dicegameswitch.netlify.app/"
-              a="https://github.com/daniyal4engg/Dice-game"
+              a="https://github.com/shailendra-k1245/BathAndBodyWorks-site"
             />
           </Col>
         </Row>
